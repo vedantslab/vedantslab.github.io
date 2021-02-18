@@ -10,11 +10,11 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ### Small image
 
-![Octocat](https://github.com/Shrivis/shrivis.github.io/blob/main/about/1.jpg)
+![Octocat](https://raw.githubusercontent.com/Shrivis/shrivis.github.io/main/about/1.jpg)
 
 ### Large image
 
-![Branching](https://github.com/Shrivis/shrivis.github.io/blob/main/about/1.jpg)
+![Branching](https://raw.githubusercontent.com/Shrivis/shrivis.github.io/main/about/1.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
